@@ -1,4 +1,22 @@
-💻SKILLS
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:60ca80,100:93c7a3&height=140&section=header&text=Welcome%20to%20YZ's%20Github&fontColor=fefff8&fontSize=30&fontAlign=79&fontAlignY=25" />
+
+<img align=right src="https://github-readme-stats.vercel.app/api/top-langs/?username=yzlybe&theme=default&layout=compact" />
+
+<p align=left>
+
+### 😀 Introduce
+---
+  
+- 성장하는 개발자 김예지(Kim Yeji) 입니다.
+
+</p>
+
+<br />
+<br />
+
+<div align=center>
+
+💻Skills
 ---
 ![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -18,10 +36,7 @@
 ![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Slack](https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
-
-
-![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=yzlybe&theme=default&layout=compact)
-
+</div>
 <!--
 **yzlybe/yzlybe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
